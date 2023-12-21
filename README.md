@@ -1,4 +1,4 @@
-# Hosted Link-[(Watch Demo Here)](https://react-color-picker-roan.vercel.app/)
+# Hosted Link-[[Watch Demo Here]](https://react-color-picker-roan.vercel.app/)
 
 # Getting Started with Create React App
 
